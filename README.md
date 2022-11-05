@@ -69,7 +69,7 @@ In this project, you are given a “broken” Windows 10 PC and asked to figure 
 
 This project was developed using the following tech stacks:
 
-* ![Windows10]
+<img src="images/windows-10-logo.png" alt="Logo" width="100">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +106,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Screensshots
 
-![example title](images/screenshot.png)
+![example title](images/screenshot.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,11 +159,4 @@ Resource that I found helpful during the developing of this project:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/m-abdelgawad/
-[product-screenshot]: images/screenshot.png
-[Python]: images/python-logo.png
-[UiPath]: images/uipath-logo.png
-[Bash]: images/bash-logo.png
-[Django]: images/django-logo.png
-[Oracle]: images/oracle-logo.png
-[Linux]: images/linux-logo.png
-[Windows10]: images/windows-10-logo.png
+[product-screenshot]: images/screenshot.jpg
