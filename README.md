@@ -147,7 +147,7 @@ Github Profile Link: [https://github.com/m-abdelgawad](https://github.com/m-abde
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Resource that I found helpful during the developing of this project:
+Resources that I found helpful during the developing of this project:
 
 * [CIS-Controls-Version-7-1](https://www.cisecurity.org/controls/v7)
 
