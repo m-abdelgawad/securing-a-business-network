@@ -6,9 +6,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<a name="readme-top"></a>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -81,6 +82,11 @@ be applied to thousands.
 
 <img src="images/introduction-to-cybersecurity-certification.jpg">
 
+This is my first project in the Introduction to Cybersecurity Nanodegree by Udacity. In this project, I simultate that I have been hired to secure the PC used at my friend’s business: Joe's Auto Body. Joe provides car repair services throughout the area. His previous employees used it for activities unrelated to work (e.g., web browsing, personal email, social media, games, etc.) and he now uses it to store his critical business information. He suspects that others may have broken into it and could be using it to transfer files across the internet. He has asked me to secure it for him according to industry best practices, so it can be once again used as a standard PC.
+
+I was given a “broken” Windows 10 PC and asked to figure out what was wrong with it and then make changes to fix and secure it. The process of analyzing and applying security happens in workplaces around the globe and is exactly what cybersecurity professionals do daily.
+
+This project gave me the opportunity to apply what I learned in the first course in the Introduction to Cybersecurity Nanodegree by investigating a Windows 10 PC, securing it, and then explaining what I found and did in my security report. The same skills I used on one PC can be applied to thousands.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +96,7 @@ be applied to thousands.
 
 This project was developed using the following tech stacks:
 
-* ![Windows10]
+<img src="images/windows-10-logo.png" alt="Logo" width="100">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +133,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Screensshots
 
-![example title](images/screenshot.png)
+![example title](images/screenshot.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +174,7 @@ Github Profile Link: [https://github.com/m-abdelgawad](https://github.com/m-abde
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Resource that I found helpful during the developing of this project:
+Resources that I found helpful during the development of this project:
 
 * [CIS-Controls-Version-7-1](https://www.cisecurity.org/controls/v7)
 
@@ -180,11 +186,4 @@ Resource that I found helpful during the developing of this project:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/m-abdelgawad/
-[product-screenshot]: images/screenshot.png
-[Python]: images/python-logo.png
-[UiPath]: images/uipath-logo.png
-[Bash]: images/bash-logo.png
-[Django]: images/django-logo.png
-[Oracle]: images/oracle-logo.png
-[Linux]: images/linux-logo.png
-[Windows10]: images/windows-10-logo.png
+[product-screenshot]: images/screenshot.jpg
