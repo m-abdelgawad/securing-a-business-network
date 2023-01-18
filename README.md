@@ -56,9 +56,31 @@
 
 ![product-screenshot]
 
-You have been hired to secure the PC used at your friend’s business: Joe's Auto Body. Joe provides car repair services throughout the area. His previous employees used it for activities unrelated to work (e.g., web browsing, personal email, social media, games, etc.) and he now uses it to store his critical business information. He suspects that others may have broken into it and could be using it to transfer files across the internet. He has asked that you secure it for him according to industry best practices, so it can be once again used as a standard PC.
+> This project was a milestone in my journey to study the Introduction 
+to Cybersecurity Nanodegree provided by Udacity.
 
-In this project, you are given a “broken” Windows 10 PC and asked to figure out what’s wrong with it and then make changes to fix and secure it. The process of analyzing and applying security happens in workplaces around the globe and is exactly what cybersecurity professionals do daily. This project gives you the opportunity to apply what you’ve learned in the course by investigating a Windows 10 PC, securing it, and then explaining what you found and did in your security report. The same skills you use on one PC can be applied to thousands.
+You have been hired to secure the PC used at your friend’s business: Joe's 
+Auto Body. Joe provides car repair services throughout the area. His previous 
+employees used it for activities unrelated to work (e.g., web browsing, 
+personal email, social media, games, etc.) and he now uses it to store his 
+critical business information. He suspects that others may have broken into 
+it and could be using it to transfer files across the internet. He has asked 
+that you secure it for him according to industry best practices, so it can be 
+once again used as a standard PC.
+
+In this project, you are given a “broken” Windows 10 PC and asked to figure 
+out what’s wrong with it and then make changes to fix and secure it. The 
+process of analyzing and applying security happens in workplaces around the 
+globe and is exactly what cybersecurity professionals do daily. This project 
+gives you the opportunity to apply what you’ve learned in the course by 
+investigating a Windows 10 PC, securing it, and then explaining what you 
+found and did in your security report. The same skills you use on one PC can 
+be applied to thousands.
+
+### Certification
+
+<img src="images/introduction-to-cybersecurity-certification.jpg">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
